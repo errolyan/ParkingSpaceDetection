@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DetectParking
 
 Algorithm for parking detection using computer vision with OPENCV.
@@ -18,3 +19,7 @@ pip install pyyaml
 The main code is in python/main.py
 
 You can place parking limits on datasets/parking2.yml
+=======
+# parking_space_detection
+parking space detection
+>>>>>>> 05c575c0557d5cdf248aa4cfd3ab226b8c92b1c4

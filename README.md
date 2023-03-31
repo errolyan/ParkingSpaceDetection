@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+blog(博客） : https://errol.blog.csdn.net/
+
+停车位检测
+
 # DetectParking
 
 Algorithm for parking detection using computer vision with OPENCV.
